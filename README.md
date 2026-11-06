@@ -14,9 +14,11 @@
 
 ## About
 
-I’m a self-taught developer focused on building frontend applications. I enjoy turning ideas into clear, practical web experiences and growing my skills with every project.
+I’m a self-taught Full-Stack Developer passionate about building and shipping practical digital solutions. I develop frontend and backend applications, including full-stack web apps, while leveraging AI tools to improve my development workflow and bring ideas to life.
 
-**My learning path:** Frontend → Full-stack → Mobile development → Cybersecurity
+I’m also expanding my skills into mobile application development for iOS and Android, with a long-term interest in cybersecurity.
+
+**My learning path:** Full-Stack Development → Mobile Development (iOS & Android) → Cybersecurity.
 
 ## Most-starred projects
 
