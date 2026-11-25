@@ -64,16 +64,16 @@ I’m also expanding my skills into mobile application development for iOS and A
 
 ## Most-starred projects
 
-These are my most-starred public repositories, currently tied at one star each.
+These are my most-starred public repositories, currently tied at one star each. Listed newest first.
 
 | Project | What it is | Stars |
 | --- | --- | ---: |
-| [Calculator](https://github.com/i-amfamous/calculator) | A simple calculator built with HTML, CSS, and JavaScript. | ★ 1 |
+| [Nexora AI System](https://github.com/i-amfamous/Nexora_AiSystem) | A unified, AI-powered platform for managing and automating business operations. | ★ 1 |
+| [FamousTechX POS](https://github.com/i-amfamous/famousTechxPos) | A point-of-sale system built for a business. | ★ 1 |
+| [TechX](https://github.com/i-amfamous/techX) | A SaaS app for TechX. | ★ 1 |
+| [Campus Report System](https://github.com/i-amfamous/campus_reportiSystem) | A campus reporting and resolution system. | ★ 1 |
 | [School Management](https://github.com/i-amfamous/school-management) | A school management system. | ★ 1 |
 | [AgriWeb](https://github.com/i-amfamous/agricWeb) | A website for the agriculture industry. | ★ 1 |
-| [FamousTechX](https://github.com/i-amfamous/famoustechx) | A school management system. | ★ 1 |
-| [Swiftek](https://github.com/i-amfamous/swiftek) | A storefront for smartphones, laptops, and accessories. | ★ 1 |
-| [Note App](https://github.com/i-amfamous/noteApp) | A lightweight browser-based notes app built with HTML, CSS, and JavaScript. | ★ 1 |
 
 ## Current focus
 
